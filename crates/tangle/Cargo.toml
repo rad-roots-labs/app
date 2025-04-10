@@ -1,5 +1,5 @@
 [package]
-name = "radroots"
+name = "tangle"
 version = "0.0.1"
 authors = ["triesap npub1tr33s4tj2le2kk9yzhfphdtss26gyn8kv7savnnjhj794nqp333q8e7grr"]
 license = "GPLv3"
@@ -7,7 +7,7 @@ edition = "2021"
 rust-version = "1.77.2"
 
 [lib]
-name = "radroots_lib"
+name = "tangle_lib"
 crate-type = ["staticlib", "cdylib", "rlib"]
 
 [build-dependencies]
