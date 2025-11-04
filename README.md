@@ -1,20 +1,20 @@
 <div align="center">
 
-# tangle | rad roots
+# rad roots | PWA
 
-_a farmer's market app built on Nostr_
+_collaborative agriculture on Nostr_
 
 <p align="center"><a href="https://opensource.org/license/gpl-3-0"><img src="https://img.shields.io/badge/license-GPLv3-blue.svg"></a></p>
 
-<img src="./docs/design/ios/setup.png" alt="Tangle iOS Setup" title="Tangle iOS Setup" width="240"/>
+<img src="./docs/design/ios/setup.png" alt="iOS Setup" title="iOS Setup" width="240"/>
 
 </div>
 
 ## Overview
 
-Tangle is a decentralized social networking application built on the Nostr protocol. We are building it for farmers around the world to market their products, and share their activities and knowledge.
+Rad Roots is a collaborative agriculture network built on the Nostr protocol. We are building it for farmers around the world to market their products, and share their activities and knowledge.
 
-Built for adaptability to remote areas, Tangle is designed with offline-first principles and includes a local database and on-device geocoder. Upon network connection the application will synchronize local data to the Nostr network.
+Built for adaptability to remote areas, the app is designed with offline-first principles and includes a local database and on-device geocoder. Upon network connection the application will synchronize local data to the Nostr network.
 
 ## Supported Features
 
