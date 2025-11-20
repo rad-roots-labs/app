@@ -1,14 +1,15 @@
 <div align="center">
 
-# rad roots | PWA
+# rad roots | app
 
-_collaborative agriculture on Nostr_
+_collaborative agriculture network_
 
 <p align="center"><a href="https://opensource.org/license/gpl-3-0"><img src="https://img.shields.io/badge/license-GPLv3-blue.svg"></a></p>
 
 <img src="./docs/design/ios/setup.png" alt="iOS Setup" title="iOS Setup" width="240"/>
 
 </div>
+
 
 ## Overview
 
