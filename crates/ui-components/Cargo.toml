@@ -1,0 +1,14 @@
+[package]
+name = "radroots-app-ui-components"
+authors = ["triesap npub1tr33s4tj2le2kk9yzhfphdtss26gyn8kv7savnnjhj794nqp333q8e7grr"]
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[lib]
+crate-type = ["rlib"]
+
+[dependencies]
+radroots-app-ui-core = { path = "../ui-core" }
+radroots-app-ui-primitives = { path = "../ui-primitives" }
